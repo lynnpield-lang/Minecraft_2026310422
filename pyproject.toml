@@ -1,0 +1,10 @@
+[project]
+name = "minecraft-3d"
+version = "0.1.0"
+description = "Python 3D 마인크래프트 샌드박스 (pygame + PyOpenGL)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame-ce>=2.5",
+    "PyOpenGL>=3.1",
+]
